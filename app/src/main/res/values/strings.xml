@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GlideGiphy</string>
+    <string name="enter_info">Введите данные для поиска</string>
+    <string name="find">Найти</string>
+</resources>
